@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://electrondelladarn.github.io/sitemap.xml
